@@ -1,4 +1,4 @@
-### 1. Here's a basic **README.md** template for your `federated_learning` repository. You can modify it according to your specific project needs.
+## Here's a basic **README.md** template for your `federated_learning` repository. You can modify it according to your specific project needs.
 
 # Federated Learning
 
