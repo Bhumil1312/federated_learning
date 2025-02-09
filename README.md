@@ -71,20 +71,3 @@ python train.py --master
 ## Contributing
 
 Feel free to fork this project, create issues, and submit pull requests. Contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
----
-
-### Instructions to Create the README File:
-
-1. Create a file named **`README.md`** in the root of your `federated_learning` repository.
-2. Copy and paste the template above into the **`README.md`** file.
-3. Modify it with any additional details specific to your project.
-
----
-
-This README will give users an overview of the project, setup instructions, and how to contribute. Let me know if you'd like to add more specific details or instructions!
