@@ -1,5 +1,3 @@
-## Here's a basic **README.md** template for your `federated_learning` repository. You can modify it according to your specific project needs.
-
 # Federated Learning
 
 This repository contains code for a federated learning project that uses multiple Raspberry Pi devices in a distributed setting. The goal is to implement federated learning using Celery, Flower, and RabbitMQ on a Raspberry Pi 5 cluster. The repository includes the setup for the master and slave nodes, Docker configurations, and other necessary files to run federated learning workloads.
