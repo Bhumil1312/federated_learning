@@ -62,7 +62,3 @@ On the master node:
 ```bash
 python train.py --master
 ```
-
-## Contributing
-
-Feel free to fork this project, create issues, and submit pull requests. Contributions are welcome!
